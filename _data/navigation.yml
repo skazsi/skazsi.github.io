@@ -1,4 +1,8 @@
 main:
+  - title: "Articles"
+    url: /articles/
+  - title: "Book Reviews"
+    url: /books/
   - title: "Posts"
     url: /posts/
   - title: "Categories"

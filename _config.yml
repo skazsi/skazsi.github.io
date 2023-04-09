@@ -82,7 +82,37 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/skazsi"
 
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:path/
+  books:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
+  # _articles
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: false
+  # _books
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: false
   # _posts
   - scope:
       path: ""
@@ -101,6 +131,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 category_archive:
   type: liquid
