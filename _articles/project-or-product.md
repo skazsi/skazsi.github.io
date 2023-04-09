@@ -1,5 +1,7 @@
 ---
 title: "Project or Product"
+header:
+  teaser: /assets/images/project-or-product.png
 ---
 Let me start this article from an unexpected direction. In the Second World War, in early May 1942, a main naval battle was fought between the Imperial Japanese Navy and the United States naval and air forces. It's known as the Battle of the Coral Sea.
 
