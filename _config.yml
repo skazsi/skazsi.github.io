@@ -93,7 +93,7 @@ collections:
 defaults:
   # _articles
   - scope:
-      path: ""
+      path: "_articles"
       type: articles
     values:
       layout: single
