@@ -104,7 +104,7 @@ defaults:
       related: false
   # _books
   - scope:
-      path: ""
+      path: "_books"
       type: books
     values:
       layout: single
