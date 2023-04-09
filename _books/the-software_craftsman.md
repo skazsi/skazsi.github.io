@@ -1,5 +1,7 @@
 ---
 title: "The Software Craftsman"
+header:
+  teaser: /assets/images/the-software-craftsman-300px.jpg
 ---
 
 ![](/assets/images/the-software-craftsman-300px.jpg)

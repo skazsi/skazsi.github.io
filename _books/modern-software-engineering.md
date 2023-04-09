@@ -1,5 +1,7 @@
 ---
 title: "Modern Software Engineering"
+header:
+  teaser: /assets/images/modern-software-engineering-300px.jpg
 ---
 
 ![](/assets/images/modern-software-engineering-300px.jpg)

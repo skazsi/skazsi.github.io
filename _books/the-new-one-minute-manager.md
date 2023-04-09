@@ -1,5 +1,7 @@
 ---
 title: "The New One Minute Manager"
+header:
+  teaser: /assets/images/the-new-one-minute-manager-300px.jpg
 ---
 
 ![](/assets/images/the-new-one-minute-manager-300px.jpg)
