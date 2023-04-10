@@ -56,9 +56,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Krisztián Zsolt Sallai"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A software engineering manager, a passionate Java developer, a software architect and a software craftsman."
+  name: "Krisztián Zsolt Sallai"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "A software engineering manager, a passionate Java developer, a software architect and a software craftsman."
+  location: "Zürich, Switzerland"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
