@@ -2,6 +2,7 @@
 title: "Software Coder, Software Developer or Software Engineer"
 header:
   teaser: /assets/images/coder-and-software-engineer.png
+number: 3
 ---
 Most of the time we use the "software coder", "software developer", and "software engineer" terms interchangeably. In the big software development society, they implement the software. Other roles are usually the Product Owner, Project Manager, Business Analyst, Tester, Scrum Master, etc. So far so good. But as a software engineering manager, I see a distinct difference between these roles mentioned in the beginning.
 

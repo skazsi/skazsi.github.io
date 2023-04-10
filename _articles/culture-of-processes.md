@@ -2,6 +2,7 @@
 title: "Culture of Processes"
 header:
   teaser: /assets/images/culture-of-processes.png
+number: 1
 ---
 I work in agile environments for close to the entirety of my professional career. So you say I am lucky. However, I never felt the environment agile for plenty of reasons. I'm quite sure that I will elaborate on them in other posts, but for now, I would rather concentrate on one aspect only.
 
