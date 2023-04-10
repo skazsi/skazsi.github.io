@@ -55,6 +55,15 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+repository: skazsi/skazsi.github.io
+
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+    label: "comment" # Optional - must be existing label.
+
 author:
   name: "Krisztián Zsolt Sallai"
   avatar: "/assets/images/bio-photo.jpg"
