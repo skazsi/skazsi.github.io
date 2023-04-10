@@ -60,9 +60,9 @@ repository: skazsi/skazsi.github.io
 comments:
   provider: "utterances"
   utterances:
-    theme: "github-light" # "github-dark"
+    theme: "github-light"
     issue_term: "pathname"
-    label: "comment" # Optional - must be existing label.
+    label: "comment"
 
 author:
   name: "Krisztián Zsolt Sallai"
@@ -99,6 +99,9 @@ collections:
   books:
     output: true
     permalink: /:collection/:path/
+
+atom_feed:
+  hide: true
 
 defaults:
   # _articles
