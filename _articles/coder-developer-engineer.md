@@ -20,7 +20,7 @@ Would we tolerate it if our players are repetitively late from training, shout a
 
 We would expect from our professional players that on top of being good players, they can talk to the press, not blame the club or other players after a loss, do not appear in the tabloid press in questionable or unethical situations, wear the club's uniform at formal events, etc. We could continue this list for a long time, but you probably got the point already.
 
-As a software engineering manager, I see my team as a professional football team, not as an amateur team or as friends playing football in their free time. While all the software coders, software developers and software engineers can write code well, I'm generally interested in software engineers only in my team. But why?
+As a software engineering manager, I see my team as a professional football team, not as an amateur team or as friends playing football in their free time. While all the software coders, software developers and software engineers can write code well, I’m generally looking for software engineers for my team. But why?
 
 During my career, I only developed big enterprise software, where the business context and the working environment are complex. There are various stakeholders often demanding contradicting requirements. The IT infrastructure is a mess. No one seems to know the next steps. Deadlines are simply unrealistic. Bureaucracy and processes all over. Decisions are often made authoritatively without pragmatism and logical evaluation.
 
