@@ -11,10 +11,10 @@ header:
 excerpt: >
   Thoughts by a software engineering manager, a passionate Java developer, a software architect and a software craftsman.<br />
 feature_row:
-  - image_path: /assets/images/coder-and-software-engineer.png
-    title: "Software Coder, Software Developer or Software Engineer"
-    excerpt: "Most of the time we use the 'software coder', 'software developer', and 'software engineer' terms interchangeably. But as a software engineering manager, I see a distinct difference between these roles mentioned in the beginning."
-    url: "/articles/coder-developer-engineer"
+  - image_path: /assets/images/ai-for-humans-or-for-computers.png
+    title: "Why AI Will Not Replace Developers"
+    excerpt: "What a few individuals worked on for decades is now amazing millions. Suddenly everyone wants to participate in it. Everyone plays with it and looks for potential usage of it. Everyone wants artificial intelligence in their products, services, or applications, and that's all right. It is the time to be amazed and also to overreact it."
+    url: "/articles/why-ai-will-not-replace-developers"
     btn_class: "btn--primary"
     btn_label: "Read Article"
   - image_path: /assets/images/article.png
