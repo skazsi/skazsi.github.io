@@ -19,7 +19,7 @@ As for someone completely inexperienced in AI, the most significant benefit for 
 If you are unfamiliar with the different inferencing types, the following examples from the book might help you.
 - DEDUCTION: All the beans from this bag are white. These beans are from this bag. Therefore, these beans are white.
 - INDUCTION: These beans are from this bag. These beans are white. Therefore, all the beans from this bag are white.
-- ABDUCTION: All the beans from this bag are white. These beans are white. Therefore, these beans are from this bag."
+- ABDUCTION: All the beans from this bag are white. These beans are white. Therefore, these beans are from this bag.
 
 Deep learning and big data were also core components by the author for explaining nowadays AI achievements and capabilities. While I expected this, I didn't know those solutions were mostly deduction and induction based. It is also the most substantial limitation of ChatGPT. At this point, I needed to ask ChatGPT which inferencing types it uses. Here is what I got:
 
