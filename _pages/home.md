@@ -11,10 +11,10 @@ header:
 excerpt: >
   Thoughts by a software engineering manager, a passionate Java developer, a software architect and a software craftsman.<br />
 feature_row:
-  - image_path: /assets/images/ai-for-humans-or-for-computers.png
-    title: "Why AI Will Not Replace Developers"
-    excerpt: "What a few individuals worked on for decades is now amazing millions. Suddenly everyone wants to participate in it. Everyone plays with it and looks for potential usage of it. Everyone wants artificial intelligence in their products, services, or applications, and that's all right. It is the time to be amazed and also to overreact it."
-    url: "/articles/why-ai-will-not-replace-developers"
+  - image_path: /assets/images/cv.png
+    title: "How I Review Resumes"
+    excerpt: "As a hiring manager, I have reviewed countless resumes. Over time, I have established my selection criteria, what I was looking for and what I assumed to be red flags. In this article, I share my way of reviewing logic."
+    url: "/articles/how-i-review-resumes"
     btn_class: "btn--primary"
     btn_label: "Read Article"
   - image_path: /assets/images/article.png
