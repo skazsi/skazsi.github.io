@@ -26,7 +26,7 @@ Some companies try to attract talents by fancy ranks, such as Vice President or 
 
 The following might be shocking. Doctoral degrees, publications, and experience gained in the education system or being a teacher assistant are all undesired by me. There is nothing wrong with them, they are not red flags the same way as the others, but I'm simply interested in software engineers and not in software scientists. An engineer is goal-oriented, aware of the required and relevant details for the current application, and ignores the rest.
 
-I have observed that certain nations, Italy and Romania more specifically, are using the Europass format extensively. Using this standard format is less desirable in creative professions like software engineering. If someone has no creativity in creating a personalized CV, what could I expect in real work? But I also need to acknowledge that the extensive usage in certain countries might be culturally backgrounded.
+I have observed that certain nations, Italy and Romania more specifically, are using the [Europass](https://europa.eu/europass/en) format extensively. Using this standard format is less desirable in creative professions like software engineering. If someone has no creativity in creating a personalized CV, what could I expect in real work? But I also need to acknowledge that the extensive usage in certain countries might be culturally backgrounded.
 
 There are other red flags or common mistakes, such as typos, irrelevant information or too lengthy CVs. While we could continue this list, they are mostly common sense (at least for us).
 
