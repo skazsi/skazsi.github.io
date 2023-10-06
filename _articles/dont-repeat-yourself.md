@@ -4,7 +4,7 @@ header:
   teaser: /assets/images/dont-repeat-yourself.png
 number: 6
 ---
-Don't Repeat Yourself, or as everyone calls it, DRY. It is the most known principle in software engineering. Juniors learn it before anything else. They master it so profoundly in their early years that they apply it instantaneously and unconsciously in their later career. But it's not mistakenly like that. It is a no-brainer, a child's play. It sticks easily into the heads because of its simple meaning. As it says, reuse your code instead of writing it again. Easy-peasy.
+Don't Repeat Yourself, or as everyone calls it, DRY. It is one of the most known principles in software engineering. Juniors learn it before anything else. They master it so profoundly in their early years that they apply it instantaneously and unconsciously in their later career. But it's for a good reason. It is a no-brainer, a child's play. It sticks easily into the heads because of its simple meaning. As it says, reuse your code instead of writing it again. Easy-peasy.
 
 But, like with so many things in life, balance is essential. As Robert Downey Jr. as Kirk Lazarus famously said in the Tropic Thunder movie: "Never go full retard". I want you to focus on the first "Never go full" part and ignore the last word, which is not my point here. Taking it more seriously, I will show a non-obvious consequence of the overused DRY principle in this article.
 
