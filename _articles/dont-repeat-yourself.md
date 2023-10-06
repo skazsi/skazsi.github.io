@@ -18,7 +18,7 @@ The second aspect of our car manufacturing facility is screw driving. We can agr
 
 These examples provided a good insight into what to consider before extracting and reusing any artefact, whether a car manufacturing process or a piece of code. During coding, we can formulate and ask the same questions we could derive from the above examples. Here are some example questions.
 - Is it business-significant functionality?
-- Is the functionality meaningful enough to be independent from its usage?
+- Is the functionality meaningful enough in our context to be independent from its usage?
 - Does the functionality require publicity and visibility?
 - Are the benefits of the extraction greater than the cost of it?
 - Is there any technical consideration or limitation that causes the extraction?
