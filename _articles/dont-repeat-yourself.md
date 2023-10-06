@@ -42,9 +42,3 @@ We must be aware of this consequence when reusing a code piece. We need to consi
 On the opposite side, there are aspects where code extraction and reuse is not a question. One of the best examples is the cross-cutting concerns. Logging, security considerations and other similar aspects we must extract and reuse since they can be used all over. 
 
 To sum it up, the DRY is a good principle. But consider other software design goals as well. Put all the pros and cons on balance, and if you still make a good deal, go ahead with the extraction and reuse.
-
-
-
-
-
-
