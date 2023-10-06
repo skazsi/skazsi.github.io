@@ -23,7 +23,7 @@ These examples provided a good insight into what to consider before extracting a
 - Are the benefits of the extraction greater than the cost of it?
 - Is there any technical consideration or limitation that causes the extraction?
 
-If you answer such questions with "no", you shouldn't proceed with the extraction and favour a bit of code duplication instead. If you ignore these questions and proceed with the extraction, you will have some downsides. So, let's look at some of the consequences if we push the DRY principle too far.
+If you answer such questions with "no", you shouldn't proceed with the extraction and favour a bit of code duplication instead. If you ignore these questions and proceed with the extraction, you will have some downsides. So, let's look at one of the most significant consequences if we push the DRY principle too far.
 
 We are switching our car manufacturing example to a trading application we recently started working on. Our application provides only the user interface for the clients. Consequently, we must send all transactions through the network for the trading backend system. We want to avoid any integrity issues during the transmission, so we add a hash value as a checksum to each trading request. So far, so good.
 
