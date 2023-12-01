@@ -16,6 +16,10 @@ Also very eye-catching was Netflix's approach to company policies, such as vacat
 
 But there are boundaries at Netflix, too. You cannot go on a vacation all the year or fly on first class all the time. But instead of long, restrictive company policies, they provide context so people can judge what is okay by themselves.
 
+The book continues further with other interesting aspects, such as psychological safety, handling failures, giving and receiving candid feedback, the rockstar principle, etc. Nearly always highlighting the expected manager actions related to the discussed aspects.
+
+One of my favourite terms from the book is "socialising the idea". I started to use it in development, too. I show my half-baked code to fellow software engineers and give them a chance to comment on my approach before I spend even more time finishing my idea, often resulting in much more elegant solutions.
+
 The book has received high ratings, and for good reason. It is fresh, informative and entertaining. Some ideas are challenging to apply at other companies, but the book's core idea is influential. Ultimately, the book is an excellent choice for any manager on almost any level.
 
 What I liked the most:
