@@ -11,10 +11,10 @@ header:
 excerpt: >
   Thoughts by a software engineering manager, a passionate Java developer, a software architect and a software craftsman.<br />
 feature_row:
-  - image_path: /assets/images/dont-repeat-yourself.png
-    title: "Don't Repeat Yourself, Don't Repeat Yourself"
-    excerpt: "Don't Repeat Yourself, or as everyone calls it, DRY. It is the most known principle in software engineering. Juniors learn it before anything else. They master it so profoundly in their early years that they apply it instantaneously and unconsciously in their later career. I show a non-obvious consequence of the overused DRY principle in this article."
-    url: "/articles/dont-repeat-yourself"
+  - image_path: /assets/images/balancing-between-employee-and-employer-needs.png
+    title: "Balancing between Employee and Employer Needs"
+    excerpt: "As an engineering manager, I often find myself between the conflicting interests of my employees and the company. It can be related to project assignment, compensation, dismissal, and processes, to name a few. Who should I represent? The employee? Or the employer? That's rarely an easy question."
+    url: "/articles/balancing-between-employee-and-employer-needs"
     btn_class: "btn--primary"
     btn_label: "Read Article"
   - image_path: /assets/images/article.png
