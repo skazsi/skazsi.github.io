@@ -8,8 +8,8 @@ read_time: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.png
-#excerpt: >
-#  Thoughts by a software engineering manager, a passionate Java developer, a software architect and a software craftsman.<br />
+excerpt: >
+  Thoughts by a software engineering manager, a passionate Java developer, a software architect and a software craftsman.<br />
 feature_row:
   - image_path: /assets/images/balancing-between-employee-and-employer-needs.png
     title: "Balancing between Employee and Employer Needs"
