@@ -1,5 +1,5 @@
 ---
-title: "Effective Remote Work"
+title: "Clean Craftsmanship"
 header:
   teaser: /assets/images/clean-craftsmanship-300px.jpg
 ---
