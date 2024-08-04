@@ -14,3 +14,4 @@ SOLID
 YAGNI
 TWAADI
 Amy Cuddy quote
+Conway's law
