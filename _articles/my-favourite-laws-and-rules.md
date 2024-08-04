@@ -6,3 +6,11 @@ number: 7
 ---
 Dunning–Kruger_effect
 Survivorship bias
+Loss aversion
+Planning fallacy
+Brooke's law
+Single Responsibility
+SOLID
+YAGNI
+TWAADI
+Amy Cuddy quote
