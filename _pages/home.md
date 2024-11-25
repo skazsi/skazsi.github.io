@@ -11,10 +11,10 @@ header:
 excerpt: >
   Thoughts by a software engineering manager, a passionate Java developer, a software architect and a software craftsman.<br />
 feature_row:
-  - image_path: /assets/images/balancing-between-employee-and-employer-needs.png
-    title: "Balancing between Employee and Employer Needs"
-    excerpt: "As an engineering manager, I often find myself between the conflicting interests of my employees and the company. It can be related to project assignment, compensation, dismissal, and processes, to name a few. Who should I represent? The employee? Or the employer? That's rarely an easy question."
-    url: "/articles/balancing-between-employee-and-employer-needs"
+  - image_path: /assets/images/airplane-podracer.png
+    title: "The Lack of Physics Constraints on Software Design"
+    excerpt: "While the laws of physics constrain traditional engineering designs, software designs do not face these limitations. This freedom can be appealing for software engineers, but it also presents its own set of challenges."
+    url: "/articles/the-lack-of-physics-constraints-on-software-design"
     btn_class: "btn--primary"
     btn_label: "Read Article"
   - image_path: /assets/images/article.png
