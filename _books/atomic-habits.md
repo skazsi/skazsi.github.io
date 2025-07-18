@@ -22,7 +22,7 @@ What I like the most
 - It delivers what it promises
 - Well-structured, informative, interesting
 - Let the reader better understand themselves
-- It widened my overall knowledge.
+- It widened my overall knowledge
 
 What I didn't like much:
 - Nothing
