@@ -18,7 +18,7 @@ Another surprise was how often I found connections to my other readings, in topi
 
 My favourite statement from the book is _"Winners and losers have the same goals"_.
 
-What I like the most
+What I like the most:
 - It delivers what it promises
 - Well-structured, informative, interesting
 - Let the reader better understand themselves
