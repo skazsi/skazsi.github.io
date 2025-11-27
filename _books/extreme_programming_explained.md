@@ -12,7 +12,7 @@ The book left me with mixed feelings. I hoped it would give me a better explanat
 
 I know now that my confusion had two reasons. At first, I approached the book with preconceptions about what it was about, obviously. On the other hand, XP is old, even older than Agile itself, and it has evolved since the author published this second edition of the book in 2004.
 
-Despite all of the above things, I really liked the book and the XP itself. I see now why Robert C. Martin refers to it as the most defined process, or the one that defines all of the parts of Agile. The XP practices cover the full spectrum of the software development process, including business-facing, team-related, and engineering-related practices. They are just not very interconnected and organised in "those" circles yet. And what better illustrates the full spectrum than the Pay-Per-Use business model at one end and the extent to which we shall lean towards the other during pair programming at the other end?
+Despite all of the above things, I really liked the book and the XP itself. I see now why Robert C. Martin refers to it as the most defined process, or the one that defines all of the parts of Agile. The XP practices cover the full spectrum of the software development process, including business-facing, team-related, and engineering-related practices. They are just not very interconnected and organised in "those" circles yet. And what better illustrates the full spectrum than the Pay-Per-Use business model at one end and the extent to which we shall lean towards the other during pair programming at the other end.
 
 This book is an excellent choice for those who are struggling with Agile but do not know why or what their project is missing. Very likely some practices from XP. 
 
@@ -22,7 +22,7 @@ What I liked the most:
 
 What I didn't like that much:
  - The practices do not form a very cohesive system. Each of them can live in its own bubble
- - It feels here and there a bit outdated, which is fair for a 2004 published edition
+ - It feels here and there a bit outdated, which is fair for a 2004 published book
 
 
 
