@@ -1,9 +1,20 @@
+class NilClass
+  def tainted?; false; end
+  def untainted?; true; end
+end
+
+class String
+  def tainted?; false; end
+  def untainted?; true; end
+end
+
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
-
+gem "liquid", "~> 4.0.4"
 gem "tzinfo-data"
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "csv"
+gem "bigdecimal"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
