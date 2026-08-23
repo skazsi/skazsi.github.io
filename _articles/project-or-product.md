@@ -24,6 +24,6 @@ We, as software professionals, should always think of our applications as produc
 
 ![](/assets/images/projects-over-product.png)
 
-The Yorktown can also serve with a bonus story. The American intelligence knew about the upcoming attack at Midway. Therefore, the carrier could only spend a few days in the dry dock for quick-and-dirty repair before joining the other two remaining fleet carriers at Midway, the Hornet and the Enterprise. Her presence in the battle was significant not only in terms of available aerial force for the Americans, but it also absorbed Japanese aerial counterattacks, which otherwise would have been directed at the Hornet and Enterprise.
+The Yorktown can also serve with a bonus story. The American intelligence knew about the upcoming attack at Midway. Therefore, the carrier could only spend a few days in the dry dock for quick-and-dirty repairs. The mechanics worked around the clock to get her ready.
 
-While the Yorktown unquestionably helped the Americans to reach their strategic goal, her patchwork repair cetainly did not increase her surviving capabilites. Quick-and-dirty solutions are never for free. In this case, she was the price and never came back. Remember for the Yorktown before agreeing on a quick-and-dirty solution next time.
+While the Yorktown unquestionably helped the Americans to reach their strategic goal, her patchwork repair certainly did not increase her surviving capabilities. Quick-and-dirty solutions are never the way to go if you want to build sustainable software products.
