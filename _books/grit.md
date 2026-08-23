@@ -13,7 +13,7 @@ The book worked well. It contained great stories that kept me awake while drivin
 One notable aspect of the book is the author's teaching background. She not only shares stories from her experience and research she made but also gives valuable insight into how to develop grit in kids. Therefore, it might be an excellent choice for parents too. Especially if your kids are not gifted since, as it says, grit is usually unrelated or inversely related to talent.
 
 What I liked the most:
-- Easy, well understandable
+- Easily understandable
 - Great stories
 - Kept my attention
 
